@@ -1,0 +1,22 @@
+#first-square{
+  font-size:x-small;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: red;
+  border-radius: 0.5rem;
+  margin: 0 20rem;
+  padding: 1rem;
+  text-align: center;
+  border: 1px black solid;
+  position: relative;
+  top: 1.5rem;
+}
+#second-square{
+  font-size:x-small;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(215, 212, 212);
+  border-radius: 1.5rem;
+  margin: 0 10rem;
+  padding: 3rem;
+  text-align: center;
+  border: 1px black solid;
+}
